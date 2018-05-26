@@ -1,6 +1,6 @@
 """
 
-Nome: ex1
+Nome: ex1.py
 Descricao: Atribui o valor 100.000 a variavel consumoagregado.
 Autores: Bruno e Tainan
 data: 25/05/2018
