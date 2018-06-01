@@ -10,4 +10,4 @@ Versao: 0.0.1
 
 ## Entrada de dados
 
-open("dadosmacro.dat")
+open("dadosmacro.dat", "w")
